@@ -1,0 +1,23 @@
+{
+  "name": "web-dev-refresher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Primevenn/Web-dev-refresher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Primevenn/Web-dev-refresher/issues"
+  },
+  "homepage": "https://github.com/Primevenn/Web-dev-refresher#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
